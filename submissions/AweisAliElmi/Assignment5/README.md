@@ -21,8 +21,8 @@ This folder contains my work for **Assignment 5 – Spam Detection Comparison**.
 
 - Uses `mail_l7_dataset.csv`, which contains SMS messages labeled as "spam" or "ham".
 
-> [!NOTE]
-  > This dataset was sourced from the September bootcamp because it has not yet been added to the February bootcamp dataset folder.
+### NOTE
+- This dataset was sourced from the September bootcamp because it has not yet been added to the February bootcamp dataset folder.
   
 ## Requirements
 
